@@ -30,7 +30,7 @@ This project is a chat application built with React and Vite, leveraging Firebas
 
 ## Deployment
 
-The project is deployed and can be accessed [here](). For the project to run smoothly, please follow the installation steps below to set it up locally. Note that the project may behave differently across different browsers.
+The project is deployed and can be accessed [here](https://firebase-chat-app-five.vercel.app/). For the project to run smoothly, please follow the installation steps below to set it up locally. Note that the project may behave differently across different browsers.
 
 ## Installation
 
